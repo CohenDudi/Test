@@ -2,8 +2,9 @@ package components;
 
 import java.net.StandardSocketOptions;
 
-//This is an update
+ //This is an update
  //22
+ //This is the master
 public class Human {
 
     static long idCounter = 0;
